@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Data
+*.csv
+*.xlsx
+*.xls
+# (Add specific data files if they are large and shouldn't be tracked)
